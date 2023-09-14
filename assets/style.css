@@ -15,10 +15,16 @@ h2 {
 }
 img {
     display: block;
-    height: 50px;
-    width: 50px;
     margin-left: auto;
     margin-right: auto;
+}
+#cat-image {
+    height: 50px;
+    width: 50px;
+    
+}
+#css-rule-image {
+    width: 450px;
 }
 ul {
     padding-left: 40px;
@@ -28,7 +34,7 @@ p {
     text-align: center;
     font-size: 30px;
   }
-  .card {
+.card {
     width: 80%;
     margin: 40px auto;
     border: 5px solid rgb(61, 65, 73);

@@ -21,8 +21,6 @@ N/A
 
 ## Usage
 
-![Screenshot of webpage](.assets\Study-Guide-Photo.png)
-
 To use this Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressin "Command+Shift+i". A console panel shoudl appear below or to the side of the webpage browser. There you will see a list of topics we learned from Prework, along with a sugestion on which topic to study first. 
 
 ## Credits

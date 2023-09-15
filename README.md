@@ -7,13 +7,6 @@ This Prework Study Guide is a tool for the UCF Coding Bootcamp, Full Stack Certi
 Not only is this a web accessible document, it also provides the student opportunities to practice each topic on the backend.
 
 
-## Table of Contents 
-
-- [usage](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 N/A

@@ -4,7 +4,7 @@
 
 This Prework Study Guide is a tool for the UCF Coding Bootcamp, Full Stack Certification course. It contains notes on HTML, CSS, Git, and Javascript.
 
-Not only is this a web accessible document, it also provides the student opportunities to practice each topic on the backend.
+Not only is this a web accessible document, it also provides the student opportunities to practice each topic.
 
 
 ## Table of Contents 
